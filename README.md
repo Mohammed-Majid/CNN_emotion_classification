@@ -13,7 +13,6 @@
 - It employs a convolutional nerual network to predict emotions from facial images.
 - The application is built using TensorFlow and Streamlit, making it a full-stack deep learning project.
 
-![Emotion Classification Interface](https://github.com/user-attachments/assets/emotion_classification_example.png)
 
 ## Features
 
