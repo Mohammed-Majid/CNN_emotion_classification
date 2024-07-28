@@ -1,4 +1,4 @@
-# Emotion Classification Using Convolutional Masking Networks
+# Emotion Classification Using Convolutional Neural Networks
 
 ## Table of Contents
 - [Overview](#overview)
