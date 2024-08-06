@@ -22,8 +22,8 @@
 
 ## Performance
 - The image below showcases the performance numbers achieved for the different models within this project (current world record = 75%)
-
-<img width="484" alt="Screen Shot 2024-07-29 at 12 11 57 AM" src="https://github.com/user-attachments/assets/96898d9a-7b62-42c4-8784-4f84191406dc">
+  
+<img width="407" alt="Screen Shot 2024-08-06 at 7 49 03 PM" src="https://github.com/user-attachments/assets/df5e363b-d81a-44a8-89f1-a703644f8d73">=
 
 ## Installation
 
