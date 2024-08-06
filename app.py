@@ -6,9 +6,12 @@ from PIL import Image, ImageOps
 import numpy as np
 from streamlit_webrtc import VideoTransformerBase, webrtc_streamer
 import cv2
+import os
 
 # Load the trained model
-model = load_model("custom_model_v3.h5")
+dir_path = os.path.dirname(__file__)
+model_path = os.path.join(dir_path, "models", "custom_model_v4.h5")
+model = load_model(model_path)
 
 # Define the emotion classes
 emotion_classes = ["angry", "disgust", "fear", "happy", "sad", "surprise", "neutral"]
