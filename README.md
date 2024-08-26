@@ -1,5 +1,4 @@
-# Emotion Classification Using Convolutional Neural Networks
-
+# Facial Emotion Detection (CNN)
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
