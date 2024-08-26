@@ -40,7 +40,7 @@ To run this application locally, follow these steps:
     ```
 
 3. **Download the pre-trained model** and place it in the project directory:
-    - `custom_model_v3.h5`
+    - `custom_model_v2.h5`
 
 4. **Run the Streamlit application**:
     ```
