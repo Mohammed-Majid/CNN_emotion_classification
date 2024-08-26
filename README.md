@@ -1,4 +1,4 @@
-# Facial Emotion Detection (CNN)
+# Deep Facial Emotion Detection (CNN)
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
