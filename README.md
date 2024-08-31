@@ -74,5 +74,5 @@ This project was developed using the following libraries and tools:
 - [Matplotlib](https://matplotlib.org/)
 
 ### Side Note
-- Considering the size of the dataset used for this project, I was unable to commit it to this repository. In case you want to check it out, [Press here.](https://www.kaggle.com/datasets/msambare/fer2013)
+- In case you want to check the dataset out, [Press here.](https://www.kaggle.com/datasets/msambare/fer2013)
 
